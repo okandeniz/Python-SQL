@@ -1,0 +1,3 @@
+Bu uygulamada veri tabanında yer alan tablolarda sık takip edilen verilerin python ile
+otomatik olarak çekilmesi amacına yönelik bir örnek yapılmak istenmiştir. Uygulama Veri Bilimi Okulu'nun 
+makine öğrenmesi eğitiminde sunmuş olduğu tablolar ile yapılmıştır.
